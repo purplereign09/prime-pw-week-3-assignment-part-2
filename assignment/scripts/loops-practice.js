@@ -72,6 +72,6 @@ while(j <= 5) {
 // 3.c. TODO: Write a while loop to console.log the numbers from 10 to 5
 //console.log('count backwards from 10 to 5');
 let l = 10;
-while(10 > 4){
+while(l > 4) {
   console.log(l--);
 }
